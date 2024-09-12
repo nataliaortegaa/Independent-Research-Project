@@ -1,3 +1,5 @@
+**Between Opinions and Structures: The Diverse Forms of Nuevo León – An Analysis of Social Structures, Opinions, and Perspectives**
+
 Submission for the "Así Vamos" (https://comovamosnl.org/premio-asi-vamos/) Quantitative Research Competition from "Como Vamos Nuevo León A.C. 
 
 Our winning research focused on understanding the policy views and perspectives from different sectors of the third most populated state in Mexico. 
