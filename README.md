@@ -6,5 +6,6 @@ We used a k-means analysis to generate clusters, and separate the population of 
 
 The objective of this project was to create conversation around the lack of political representation and structural violence amongst the lower classes in one of the most important states in Mexico. 
 
-This Repository contains both the code and the written report, they are both in Spanish. 
+Here is the link for the Report (in Spanish): https://drive.google.com/file/d/1h2p3r8WRk0VkW5fV6pTMSeqvL2NCHPO1/view
+
 The research project was a collaboration between me and my friend, Manuel Enriquez Meza. 
